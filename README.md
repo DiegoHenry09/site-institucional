@@ -19,4 +19,4 @@ A atividade atende a dois exercícios principais aplicados de forma integrada:
 ## 🔗 Acesse o Site
 O projeto está hospedado e funcionando através do GitHub Pages.
 
-👉 **[Clique aqui para acessar o site completo]([https://diegohenry09.github.io/site-institucional/](https://github.com/DiegoHenry09/site-institucional/tree/main?tab=readme-ov-file))**
+👉 **[Clique aqui para acessar o site completo]([https://diegohenry09.github.io/site-institucional/](https://github.com/DiegoHenry09/site-institucional/tree/main?tab=readme-ov-file)](https://github.com/DiegoHenry09/site-institucional/tree/main?tab=readme-ov-file)**
